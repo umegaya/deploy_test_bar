@@ -1,3 +1,6 @@
-print('foo.bar')
-return true
+return {
+	fn = function ()
+		return ('foo.bar')
+	end,
+}
 
