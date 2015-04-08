@@ -1,0 +1,3 @@
+[submodule "baz"]
+	path = baz
+	url = /Users/iyatomi/Documents/umegaya/sandbox/submodule_test/baz
