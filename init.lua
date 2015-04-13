@@ -1,4 +1,5 @@
-local baz = require 'baz'
+local mod = require 'luact.module'
+local baz = mod.require 'baz'
 
 return {
 	fn = function ()
