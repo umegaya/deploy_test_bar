@@ -1,0 +1,3 @@
+[submodule "baz"]
+	path = baz
+	url = git@github.com:umegaya/deploy_test_baz.git
